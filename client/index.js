@@ -17,3 +17,7 @@ ReactDOM.render(
   </Provider>,
   document.getElementById('app')
 )
+/*
+      <video autoplay playsinline></video>
+      <script src="./hackedwebRTCscript.js"></script>
+      */

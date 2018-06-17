@@ -5,4 +5,9 @@
  */
 export {default as Navbar} from './navbar'
 export {default as UserHome} from './user-home'
+export {default as Canvas} from './canvas'
+export {default as TextBox} from './text-box'
 export {Login, Signup} from './auth-form'
+
+export { default as VideoComponent } from './video-component.js'
+export { default as VideoApp } from './video-app.js'
