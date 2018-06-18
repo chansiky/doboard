@@ -6,7 +6,6 @@ const App = () => {
   return (
     <div>
       <Navbar />
-        <h1> test </h1>
       <Routes />
     </div>
   )
